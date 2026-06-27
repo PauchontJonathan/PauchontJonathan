@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hello, je suis Développeur Full Stack
 
-<!--
-**PauchontJonathan/PauchontJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
 
-Here are some ideas to get you started:
+Développeur Full Stack spécialisé en **Laravel, Vue.js et Nuxt.js**, je conçois des applications web modernes, performantes et centrées sur l’expérience utilisateur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J’accorde une attention particulière à la qualité du code, à la performance, au SEO et aux interfaces soignées.
+
+---
+
+## 🧠 Stack technique
+
+### 💻 Frontend
+- Vue.js
+- Nuxt.js
+- Tailwind CSS
+- JavaScript / TypeScript
+
+### ⚙️ Backend
+- Laravel
+- Node.js (API & services)
+- REST API
+
+### 🗄️ Base de données
+- MySQL
+- SQLite
+
+### 🧰 Outils
+- Git / GitHub
+- Docker (bases)
+- Vercel / VPS
+- Hostinger
+- Dokploy
+- Figma (lecture / intégration)
+
+---
+
+## 📊 Niveau de confort
+
+Laravel      ▰▰▰▰▰▰▰▰▰▱
+Vue.js       ▰▰▰▰▰▰▰▰▰▱
+Nuxt.js      ▰▰▰▰▰▰▰▰▱▱
+JavaScript   ▰▰▰▰▰▰▰▰▱▱
+TypeScript   ▰▰▰▰▰▰▰▱▱▱
+Node.js      ▰▰▰▰▰▰▱▱▱▱
+MySQL        ▰▰▰▰▰▰▰▰▱▱
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PauchontJonathan&show_icons=true&theme=tokyonight)
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauchontJonathan&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=PauchontJonathan&theme=tokyonight)
+
+---
+
+## 🚀 Projets récents
+
+### 🧩 Portfolio personnel
+- Nuxt SSR
+- Animations avancées
+- Design sur mesure
+- Performance optimisée
+
+### 📡 Projet WebSocket (en cours)
+- Backend Node.js
+- Architecture temps réel
+- Optimisation performance
+
+---
+
+## 🎯 Objectifs
+
+- Développer des applications web performantes et scalables
+- Approfondir les architectures backend modernes
+- Travailler sur des projets à forte valeur UX/UI
+- Explorer davantage les systèmes temps réel et les performances
+
+---
+
+## 📫 Contact
+
+- GitHub : https://github.com/PauchontJonathan
+- Email : pauchontjonathan@gmail.com
