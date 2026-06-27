@@ -49,7 +49,7 @@ MySQL        ▰▰▰▰▰▰▰▰▱▱
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=PauchontJonathan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauchontJonathan&layout=compact&theme=tokyonight)
 
